@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      leao-removebg-preview_0: 1621654076283379500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

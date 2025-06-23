@@ -773,6 +773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 8
+  forcaDoPulo: 4
 --- !u!1 &960481907
 GameObject:
   m_ObjectHideFlags: 0
